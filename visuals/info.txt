@@ -1,0 +1,1 @@
+ALL visuals are used are in car_accidents_clean.xlsx.
